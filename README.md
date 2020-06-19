@@ -14,7 +14,13 @@
 
 ```
 
-## 使用
+## 启动
+```
+$ npm -i
+$ nodemon index.js
+```
+
+## Index.js
 ```
 const DoubanSpider = require('./library/douban.js');
 
