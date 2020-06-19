@@ -1,5 +1,11 @@
 {
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "cheerio": "^1.0.0-rc.2",
+    "iconv": "^2.3.0",
+    "iconv-lite": "^0.4.19"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
   }
 }
